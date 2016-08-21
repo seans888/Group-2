@@ -1,0 +1,6 @@
+http://localhost/phpmyadmin 
+
+ 
+
+http://localhost/CRP 
+
