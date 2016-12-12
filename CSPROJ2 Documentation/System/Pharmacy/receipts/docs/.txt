@@ -1,0 +1,3 @@
+Maxicap;4;5;20;
+Biogesic;2;7;14;
+TOTAL;;;34;

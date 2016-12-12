@@ -1,0 +1,4 @@
+Biogesic;5mg;3;1;2;2
+Maxicap;500mg;3x/day;5;4;20
+Biogesic;5mg;1/day;7;2;14
+TOTAL;;;;;34

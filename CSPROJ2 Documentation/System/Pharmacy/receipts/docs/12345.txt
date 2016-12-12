@@ -1,0 +1,3 @@
+TOTAL;;;;;
+Extra;5mg;2/day;5;9;45
+TOTAL;;;;;45

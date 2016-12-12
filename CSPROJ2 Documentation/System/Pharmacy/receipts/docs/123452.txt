@@ -1,0 +1,2 @@
+Biogesic;500mg;2/day;2;2;4
+TOTAL;;;;;4

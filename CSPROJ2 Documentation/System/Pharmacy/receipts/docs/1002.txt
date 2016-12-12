@@ -1,0 +1,2 @@
+Dual Cotexin;critical;2;1;120;120
+TOTAL;;;;;120
