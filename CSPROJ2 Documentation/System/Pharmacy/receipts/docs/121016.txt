@@ -1,4 +1,0 @@
-Dual Cotexin;PhilHealth;Dr. Palma;3;120;360
-TOTAL;;;;;360
-Dual Cotexin;50 mg;3x/day;2;120;240
-TOTAL;;;;;240
